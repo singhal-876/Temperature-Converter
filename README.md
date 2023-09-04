@@ -9,8 +9,8 @@ This is a simple temperature converter that converts Celsius to Fahrenheit and v
 
 ## Languages used
 
-1.HTML
-2.CSS
+1.HTML<br>
+2.CSS<br>
 3.JavaScript
 
 ## Contact
